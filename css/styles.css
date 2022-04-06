@@ -78,6 +78,15 @@
 #portfolio{
   background-color: #1D809F;
 }
+.imgSvg{
+  width: 50%;
+  filter: brightness(0.5);
+
+}
+.imgSvg:hover{
+ 
+  filter:  drop-shadow(2px 4px 6px black);
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -11623,4 +11632,6 @@ h2{
   line-height: 7.5rem;
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
 }
