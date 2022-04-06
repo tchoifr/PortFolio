@@ -75,7 +75,9 @@
     scroll-behavior: smooth;
   }
 }
-
+#portfolio{
+  background-color: #1D809F;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
