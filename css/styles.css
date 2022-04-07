@@ -4621,7 +4621,7 @@ textarea.form-control-lg {
 }
 .h2Projet{
   display: flex;
-  text-shadow: 3px 3px 3px #818181;
+  text-shadow: 3px 3px 3px #ffffff;
     flex-direction: column;
     align-items: center;
     font-size: 2.5em;
@@ -11518,7 +11518,7 @@ footer.footer .social-link:hover {
   }
 }
 .masthead {
-  min-height: 30rem;
+  min-height: 100%;
   position: relative;
   display: table;
   width: 100%;
